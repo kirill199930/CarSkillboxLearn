@@ -23,6 +23,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3a9b34b8-d6a6-4c76-882a-4e56ad07bb1a" />
+        <option name="url" value="git@github.com:/kirill199930/RoadController.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -36,7 +44,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/user/JavaSkillbox/02.Синтаксис языка/2.7 Домашняя работа/RoadController_xiFjmf4/RoadController"
+    "last_opened_file_path": "/home/user/JavaSkillbox/02.Синтаксис языка/2.7 Домашняя работа/RoadController_xiFjmf4/RoadController",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656178642790</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="CarSkillboxLearn">
+      <created>1656179594536</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656179594536</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
