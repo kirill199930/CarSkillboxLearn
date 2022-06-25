@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5fbdf9ec-3a58-4aa8-9b07-037c05523116" name="Changes" comment="CarSkillboxLearn">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../03.Объекты и классы/3.11 Домашняя работа/Cat/Cat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03.Объекты и классы/3.11 Домашняя работа/Cat/Cat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../03.Объекты и классы/3.2 Понятие класса и объекта/Cat/Cat" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../03.Объекты и классы/3.2 Понятие класса и объекта/Cat/Cat" afterDir="false" />
     </list>
@@ -85,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656179594536</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="CarSkillboxLearn">
+      <created>1656180824912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1656180824912</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
